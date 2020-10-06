@@ -17,5 +17,9 @@
 
 
 ## 題目：人臉結合語音之辨識系統
-## 摘要：進行身份驗證
+#### 摘要：進行多重身份驗證
 #### 工作分配:
+#### :vibration_mode: 程式開發 - 『林莉庭、陳冠穎』:vibration_mode:
+#### :file_folder:專案規劃、圖文編輯『許育碩』:file_folder:
+#### :crystal_ball:美工、幫忙按摩『巫易駿』:crystal_ball:
+
