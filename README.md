@@ -14,4 +14,3 @@
 #### :vibration_mode:前後端開發『陳冠穎、巫易駿』:vibration_mode:
 #### :file_folder:專案規劃、宣傳推廣、使用者數據分析『許育碩』:file_folder:
 #### :crystal_ball:實際體驗、美工『林莉庭』:crystal_ball:
-## 大鼻孔育碩
