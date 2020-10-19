@@ -12,9 +12,9 @@
 3. 持續聊天超過五天將進行對象互評，雙方看不到對方評分結果以免發生走心的狀況，彼此分數未達門檻將自動結束這段配對，且對話紀錄會全被消除；分數達到門檻則會繼續這段關係。
 
 ### 工作分配:
-#### :vibration_mode:後端開發『陳冠穎、巫易駿』:vibration_mode:
-#### :file_folder:創意發想、報告、送茶按摩『許育碩』:file_folder:
-#### :crystal_ball:書面及PPT報告製作、前端設計『林莉庭』:crystal_ball:
+#### :vibration_mode:後端開發，勞力擔當『陳冠穎、巫易駿』:vibration_mode:
+#### :file_folder:創意發想、報告、送茶按摩，耍酷擔當『許育碩』:file_folder:
+#### :crystal_ball:書面及PPT報告製作、前端設計，顏值擔當『林莉庭』:crystal_ball:
 
 ![GANTT](系統圖.png "gantt")
 
