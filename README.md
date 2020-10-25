@@ -17,6 +17,7 @@
  :file_folder:創意發想、報告、送茶按摩，耍酷擔當『許育碩』:file_folder:
  :crystal_ball:書面及PPT報告製作、前端設計，顏值擔當『林莉庭』:crystal_ball:
 
+### 圖表:
 ![GANTT](系統圖.png "gantt")
 
 ### 需求分析的文字描述
