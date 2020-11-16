@@ -82,6 +82,8 @@
 ![系統分析圖](SYT.jpg "SYT")
 ### 資料流向圖
 ![資料流向圖](DFD.jpg "DFD")
+### UML class Diagram
+![UML圖](UML.jpg "UML")
 ### 循環圖3
 ![循環圖3](循環圖.jpg "循環圖")
 ### 推薦:
