@@ -97,7 +97,7 @@
 ![活動圖2](活動圖2.png "活動圖")
 #### 使用案例3
 ![循序圖3](循環圖.jpg "循環圖")
-####
+#### 分鏡版storyboard(影片)
 [![分鏡板storyboard](https://img.youtube.com/vi/aJIhzClxGeo/0.jpg)](https://youtu.be/aJIhzClxGeo)
 ### 推薦:
 #### 知名愛情獵人羅志祥強力推薦:heart:
