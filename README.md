@@ -98,7 +98,7 @@
 #### 使用案例3
 ![循序圖3](循環圖.jpg "循環圖")
 #### 分鏡版storyboard(影片)
-[![分鏡板storyboard](https://img.youtube.com/vi/aJIhzClxGeo/0.jpg)](https://youtu.be/aJIhzClxGeo)
+[![分鏡板storyboard](https://img.youtube.com/vi/aJIhzClxGeo/0.jpg)](https://youtu.be/aJIhzClxGeo)<br>
 ![分鏡版1](分鏡版1.png "分鏡圖1")
 ![分鏡版2](分鏡版2.png "分鏡版2")
 ![分鏡版3](分鏡版3.png "分鏡版3")
