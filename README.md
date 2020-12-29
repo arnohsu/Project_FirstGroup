@@ -1,3 +1,6 @@
+### PPT URL : https://drive.google.com/drive/folders/1cHPY9b7cM0ZeiWpHQiTKj6Mpef8AFeVp?usp=sharing
+
+
 # Project_FirstGroup
 ### 系統分析專題 
 ### 組長：林莉庭　組員：陳冠穎、巫易駿、許育碩
